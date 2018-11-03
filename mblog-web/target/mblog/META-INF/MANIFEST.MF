@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: muhong
+Implementation-Vendor-Id: com.mtons.mblog
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0
+Main-Class: ${start-class}
+
